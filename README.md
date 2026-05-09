@@ -11,6 +11,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-%231A1A1A.svg?style=for-the-badge&logo=spotify&logoColor=%2336FF55)](https://open.spotify.com/artist/2v6C6L7mZ2S0V3pYvLhV6m)
 [![Newsletter](https://img.shields.io/badge/Newsletter-%231A1A1A.svg?style=for-the-badge&logo=beehiiv&logoColor=%2336FF55)](https://techpreneur.beehiiv.com/subscribe)
 [![Community](https://img.shields.io/badge/Community-%231A1A1A.svg?style=for-the-badge&logo=skool&logoColor=%2336FF55)](https://www.skool.com/techpreneur-profits)
+[![Shop](https://img.shields.io/badge/Shop-%231A1A1A.svg?style=for-the-badge&logo=shopify&logoColor=%2336FF55)](http://banxengineering.com/shop)
 
 #
 
@@ -22,7 +23,7 @@
 
 **[Techpreneur News](https://techpreneur.beehiiv.com/subscribe)** — Weekly insights at the intersection of engineering, software, and business. Built for makers who also build companies.
 
-[![Shop](https://img.shields.io/badge/Shop-%231A1A1A.svg?style=for-the-badge&logo=payhip&logoColor=%2336FF55)](http://banxengineering.com/shop)
+
 #
 
 ## 💻 Tech Stack
