@@ -23,20 +23,20 @@
 ## 💻 Tech Stack
 
 ### Software
-![Rust](https://img.shields.io/badge/Rust-%2336FF55.svg?style=for-the-badge&logo=rust&logoColor=%230D0D0D)
-![Flutter](https://img.shields.io/badge/Flutter-%2336FF55.svg?style=for-the-badge&logo=flutter&logoColor=%230D0D0D)
-![Next.js](https://img.shields.io/badge/Next.js-%2336FF55.svg?style=for-the-badge&logo=nextdotjs&logoColor=%230D0D0D)
-![Svelte](https://img.shields.io/badge/Svelte-%2336FF55.svg?style=for-the-badge&logo=svelte&logoColor=%230D0D0D)
-![Python](https://img.shields.io/badge/Python-%2336FF55.svg?style=for-the-badge&logo=python&logoColor=%230D0D0D)
+![Rust](https://img.shields.io/badge/Rust-36FF55?style=for-the-badge&logo=rust&logoColor=0D0D0D&labelColor=36FF55&color=36FF55)
+![Flutter](https://img.shields.io/badge/Flutter-0D0D0D?style=for-the-badge&logo=flutter&logoColor=36FF55)
+![Next.js](https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge&logo=nextdotjs&logoColor=36FF55)
+![Svelte](https://img.shields.io/badge/Svelte-0D0D0D?style=for-the-badge&logo=svelte&logoColor=36FF55)
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=36FF55)
 
 ### Tools & Extensions
-![Figma Plugins](https://img.shields.io/badge/Figma_Plugins-%2336FF55.svg?style=for-the-badge&logo=figma&logoColor=%230D0D0D)
-![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-%2336FF55.svg?style=for-the-badge&logo=googlechrome&logoColor=%230D0D0D)
+![Figma Plugins](https://img.shields.io/badge/Figma_Plugins-0D0D0D?style=for-the-badge&logo=figma&logoColor=36FF55)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=36FF55)
 
 ### Hardware & Prototyping
-![KiCad](https://img.shields.io/badge/KiCad-%2336FF55.svg?style=for-the-badge&logo=kicad&logoColor=%230D0D0D)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-%2336FF55.svg?style=for-the-badge&logo=raspberrypi&logoColor=%230D0D0D)
-![3D Printing](https://img.shields.io/badge/3D_Printing-%2336FF55.svg?style=for-the-badge&logoColor=%230D0D0D)
+![KiCad](https://img.shields.io/badge/KiCad-0D0D0D?style=for-the-badge&logo=kicad&logoColor=36FF55)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0D0D0D?style=for-the-badge&logo=raspberrypi&logoColor=36FF55)
+![3D Printing](https://img.shields.io/badge/3D_Printing-0D0D0D?style=for-the-badge&logoColor=36FF55)
 
 #
 
@@ -44,9 +44,9 @@
 
 <p align="left">
   <a href="https://github.com/banxengineering?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/banxengineering?color=36FF55&style=for-the-badge&labelColor=1a1a1a&logo=star&logoColor=36FF55"/></a>
+    <img alt="total stars" title="Total GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/banxengineering?color=36FF55&style=for-the-badge&labelColor=0D0D0D&logo=star&logoColor=36FF55"/></a>
   <a href="https://github.com/banxengineering?tab=followers">
-    <img alt="followers" title="Follow on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/banxengineering?color=36FF55&labelColor=1a1a1a&style=for-the-badge&logo=person-add&label=Follow&logoColor=36FF55"/></a>
+    <img alt="followers" title="Follow on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/banxengineering?color=36FF55&labelColor=0D0D0D&style=for-the-badge&logo=person-add&label=Follow&logoColor=36FF55"/></a>
 </p>
 
 ---
