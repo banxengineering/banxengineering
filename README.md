@@ -23,7 +23,7 @@
 ## 💻 Tech Stack
 
 ### Software
-![Rust](https://img.shields.io/badge/Rust-36FF55?style=for-the-badge&logo=rust&logoColor=0D0D0D&labelColor=36FF55&color=36FF55)
+![Rust](https://img.shields.io/badge/Rust-0D0D0D?style=for-the-badge&logo=rust&logoColor=36FF55)
 ![Flutter](https://img.shields.io/badge/Flutter-0D0D0D?style=for-the-badge&logo=flutter&logoColor=36FF55)
 ![Next.js](https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge&logo=nextdotjs&logoColor=36FF55)
 ![Svelte](https://img.shields.io/badge/Svelte-0D0D0D?style=for-the-badge&logo=svelte&logoColor=36FF55)
