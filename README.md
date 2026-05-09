@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/banxengineering/profile/main/logo.png" width="32"> Banx Engineering
+# <img src="https://raw.githubusercontent.com/banxengineering/banxengineering/main/logo.png" width="40"> Banx Engineering
 
 > **Make it Work. Make it Smart.**
 
